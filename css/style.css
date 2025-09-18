@@ -666,9 +666,9 @@ a:focus {
 }
 
 .footer_section .footer_insta .insta_box .img-box {
-  width: 65px;
-  min-width: 65px;
-  height: 65px;
+  width: 150px;
+  min-width: 150px;
+  height: 200px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
